@@ -10,14 +10,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^45"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.157",
-    "@types/node": "^14.0.18",
-    "ts-lint": "^4.5.1",
-    "ts-node": "^8.10.2",
-    "tslib": "^2.0.0",
-    "typescript": "^3.9.5"
+    "@types/lodash": "^47",
+    "@types/node": "^14",
+    "ts-lint": "^4",
+    "ts-node": "^8",
+    "tslib": "^2",
+    "typescript": "^3"
   }
 }
